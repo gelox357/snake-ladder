@@ -1,0 +1,17 @@
+{
+  "Player 1": {
+    "name": "Player 1",
+    "color": [
+      255,
+      165,
+      0
+    ],
+    "avatar": null,
+    "games_played": 0,
+    "wins": 0,
+    "items_collected": 0,
+    "high_score": 0,
+    "levels_completed": 0,
+    "achievements": []
+  }
+}

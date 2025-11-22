@@ -1,0 +1,42 @@
+{
+  "players": [
+    {
+      "name": "Player 1",
+      "square": 5,
+      "color": [
+        66,
+        135,
+        245
+      ]
+    },
+    {
+      "name": "Player 2",
+      "square": 5,
+      "color": [
+        255,
+        165,
+        0
+      ]
+    },
+    {
+      "name": "Player 3",
+      "square": 7,
+      "color": [
+        16,
+        185,
+        129
+      ]
+    },
+    {
+      "name": "Player 4",
+      "square": 31,
+      "color": [
+        244,
+        114,
+        182
+      ]
+    }
+  ],
+  "turn": 3,
+  "mode": "Classic"
+}
